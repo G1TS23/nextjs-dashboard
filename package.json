@@ -40,6 +40,6 @@
   },
   "overrides": {
     "postcss": "$postcss",
-    "eslint-plugin-tsdoc": "^0.5.2"
+    "eslint-plugin-tsdoc": "^0.5.4"
   }
 }
